@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "UMROH PREMIUM",
+        "price": "56,5",
+        "jadwal": "24 Januari 2024",
+         "imgUrl": "https://rabbanitour.com/program-umroh/12-desember-2023-umroh-premium-9-hari/"
+    },
+    {
+        "id": 2,
+        "name": "UMROH HEBAT",
+        "price": "36,7",
+        "jadwal": "24 Januari 2024",
+       
+        "imgUrl": "https://rabbanitour.com/program-umroh/12-desember-2023-umroh-hebat-9-hari/"
+    },
+    {
+        "id": 3,
+        "name": "UMROH PREMIUM PLUS MESIR",
+        "price": "76,5",
+        "jadwal": "24 Januari 2024",
+        "imgUrl": "https://rabbanitour.com/program-umroh/22-desember-2023-umroh-plus-mesir-12-hari/"
+    }
+]
